@@ -1,0 +1,6 @@
+5
+Genevieve 88 32
+Dominic 90 25
+Vivian 91 45
+Quentin 86 21
+Magnus 77 40
