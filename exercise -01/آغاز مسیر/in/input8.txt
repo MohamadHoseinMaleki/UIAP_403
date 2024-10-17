@@ -1,0 +1,4 @@
+3
+Calliope 90 50
+Zephyr 70 22
+Orion 85 28
