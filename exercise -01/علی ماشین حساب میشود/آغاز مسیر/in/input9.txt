@@ -1,7 +1,0 @@
-6
-Aurelia 72 21
-Balthazar 80 20
-Celeste 90 45
-Damian 83 36
-Esmeralda 88 39
-Felix 71 18

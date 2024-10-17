@@ -1,7 +1,0 @@
-6
-Lysandra 75 34
-Oberon 77 20
-Thaddeus 88 50
-Xanthe 90 37
-Zephyrine 83 24
-Maximus 65 18
