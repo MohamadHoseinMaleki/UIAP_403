@@ -1,0 +1,4 @@
+40
+abc def ghi jkl mno pqr stu vwx yz ab bc cd ef fg gh hi ij jk kl mn no op pq rs tu vw xy za az by cx dw ev fu gt hs ir jq kp lo mp nq or ps qt ru sv tw ux vy wz xa
+string
+no

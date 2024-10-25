@@ -1,0 +1,4 @@
+20
+cat dog elephant frog giraffe hippo iguana jaguar koala lion monkey newt ostrich panda quail rabbit snake tiger unicorn
+string
+koala
