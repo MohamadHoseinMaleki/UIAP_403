@@ -1,2 +1,0 @@
-circleArea
-50

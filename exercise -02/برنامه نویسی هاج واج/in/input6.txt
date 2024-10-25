@@ -1,2 +1,0 @@
-rectangleArea
-1 1

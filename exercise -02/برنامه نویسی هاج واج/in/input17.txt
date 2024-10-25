@@ -1,2 +1,0 @@
-rectangleArea
-999 999
